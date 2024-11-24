@@ -7,6 +7,7 @@ import Offer from './Componentss/Offer';
 import DevitCard from './Componentss/DevitCard';
 import PerfectCard from './Componentss/PerfectCard';
 import Great from './Componentss/Great';
+import FAQs from './Componentss/FAQs';
 
 
 function App() {
@@ -22,7 +23,8 @@ function App() {
             <Offer />
             <DevitCard />
             <PerfectCard />
-            <Great/>
+            <Great />
+            <FAQs/>
           </div>
         </div>
       </main>
