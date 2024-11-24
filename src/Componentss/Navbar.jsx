@@ -9,13 +9,12 @@ function NavbarArea() {
       <Navbar
         shouldHideOnScroll
         isBlurred={true}
-        className="bg-zinc-950 w-full"
+        className="bg-transparent w-full"
         maxWidth="xl"
       >
         <NavbarBrand>
-          <div className='w-26'>
+         
             <img src="/logo.png" alt="" />
-          </div>
         </NavbarBrand>
         <NavbarContent justify='end'>
           <NavbarItem>

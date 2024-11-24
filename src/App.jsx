@@ -8,6 +8,7 @@ import DevitCard from './Componentss/DevitCard';
 import PerfectCard from './Componentss/PerfectCard';
 import Great from './Componentss/Great';
 import FAQs from './Componentss/FAQs';
+import Footer from './Componentss/Footer';
 
 
 function App() {
@@ -24,7 +25,8 @@ function App() {
             <DevitCard />
             <PerfectCard />
             <Great />
-            <FAQs/>
+            <FAQs />
+            <Footer/>
           </div>
         </div>
       </main>
