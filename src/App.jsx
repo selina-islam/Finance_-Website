@@ -6,6 +6,7 @@ import Vision from './Componentss/Vision';
 import Offer from './Componentss/Offer';
 import DevitCard from './Componentss/DevitCard';
 import PerfectCard from './Componentss/PerfectCard';
+import Great from './Componentss/Great';
 
 
 function App() {
@@ -20,7 +21,8 @@ function App() {
             <Vision />
             <Offer />
             <DevitCard />
-            <PerfectCard/>
+            <PerfectCard />
+            <Great/>
           </div>
         </div>
       </main>
